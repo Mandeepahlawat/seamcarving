@@ -1,0 +1,3 @@
+/home/m/m_ahlawa/projects/build/CMakeFiles/rebuild_cache.dir
+/home/m/m_ahlawa/projects/build/CMakeFiles/edit_cache.dir
+/home/m/m_ahlawa/projects/build/CMakeFiles/sc.dir

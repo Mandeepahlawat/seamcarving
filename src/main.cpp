@@ -1,5 +1,3 @@
-#include <opencv2/opencv.hpp>
-
 #include "sc.h"
 
 using namespace cv;
